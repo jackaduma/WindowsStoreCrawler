@@ -1,0 +1,13 @@
+F:\Users\jacka_000\Documents\Visual Studio 2012\Projects\WindowsStoreCrawler\WindowsStoreCrawler\bin\Debug\WindowsStoreCrawler.exe.config
+F:\Users\jacka_000\Documents\Visual Studio 2012\Projects\WindowsStoreCrawler\WindowsStoreCrawler\bin\Debug\WindowsStoreCrawler.exe
+F:\Users\jacka_000\Documents\Visual Studio 2012\Projects\WindowsStoreCrawler\WindowsStoreCrawler\bin\Debug\WindowsStoreCrawler.pdb
+F:\Users\jacka_000\Documents\Visual Studio 2012\Projects\WindowsStoreCrawler\WindowsStoreCrawler\obj\Debug\WindowsStoreCrawler.csprojResolveAssemblyReference.cache
+F:\Users\jacka_000\Documents\Visual Studio 2012\Projects\WindowsStoreCrawler\WindowsStoreCrawler\obj\Debug\WindowsStoreCrawler.exe
+F:\Users\jacka_000\Documents\Visual Studio 2012\Projects\WindowsStoreCrawler\WindowsStoreCrawler\obj\Debug\WindowsStoreCrawler.pdb
+E:\MK_Project\WinStoreCrawler\WindowsStoreCrawler\bin\Debug\WindowsStoreCrawler.exe.config
+E:\MK_Project\WinStoreCrawler\WindowsStoreCrawler\obj\Debug\WindowsStoreCrawler.exe
+E:\MK_Project\WinStoreCrawler\WindowsStoreCrawler\obj\Debug\WindowsStoreCrawler.pdb
+E:\MK_Project\WinStoreCrawler\WindowsStoreCrawler\bin\Debug\WindowsStoreCrawler.exe
+E:\MK_Project\WinStoreCrawler\WindowsStoreCrawler\bin\Debug\WindowsStoreCrawler.pdb
+E:\MK_Project\WinStoreCrawler\WindowsStoreCrawler\obj\Debug\WindowsStoreCrawler.csprojResolveAssemblyReference.cache
+E:\MK_Project\WinStoreCrawler\WindowsStoreCrawler\bin\Debug\Microsoft.UIAutomationClient.Interop.dll
